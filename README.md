@@ -1,4 +1,4 @@
-[![Kanishk's GitHub Banner](./banner.png)]
+![Kanishk's GitHub Banner](./banner.png)
 
 [![Kanishk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanishk6103&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
